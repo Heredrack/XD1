@@ -1,4 +1,4 @@
-package Lru;
+package ReemplagoPag;
 
 import java.util.*;
 
