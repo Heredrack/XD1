@@ -1,4 +1,4 @@
-package Examen;
+package Procesos;
 
 public class Proceso {
     int id, tLlegada, rCPU, prioridad, tInicio, tFin, tServicio, tEspera, tRestante;
