@@ -1,4 +1,4 @@
-package Reloj;
+package ReemplazoPag;
 
 import java.util.*;
 
