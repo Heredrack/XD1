@@ -1,4 +1,4 @@
-package Examen;
+package Procesos;
 
 import java.util.*;
 
